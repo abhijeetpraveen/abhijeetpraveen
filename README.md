@@ -8,12 +8,12 @@
 <tr>
 <td valign="middle"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpraveen&layout=compact&theme=tokyonight&langs_count=8&hide=cmake" alt="Top Langs" height="200vh"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhijeetpraveen&layout=compact&theme=tokyonight&langs_count=8&hide=cmake" alt="Top Langs" height="200vh"/>
 
 </td>
 <td valign="middle">
 
-<img alt="Abhijeet's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abhijeetpraveen&show_icons=true&theme=tokyonight&count_private=true"  height="200vh"/>
+<img alt="Abhijeet's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhijeetpraveen&show_icons=true&theme=tokyonight&count_private=true"  height="200vh"/>
 
 </td>
 </tr>
