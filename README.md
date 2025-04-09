@@ -24,8 +24,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,c,bash,linux,vim,react,vue,js,css,html,git&perline=12)
 
-📫 How to reach me:
-<a href = "mailto: abhijeet.praveen@mail.mcgill.ca">Send Email</a>
+📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Send%20Email-0078D4?style=for-the-badge&logo=mail&logoColor=white)](mailto:abhijeet.praveen@mail.mcgill.ca)
+
 
 
 <!--
