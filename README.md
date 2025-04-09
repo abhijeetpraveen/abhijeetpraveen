@@ -1,6 +1,8 @@
 ### Hi there, this is Abhijeet 👋
 
-<a href="https://www.linkedin.com/in/abhijeetpraveen/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="Linkedin"> </a>
+<a href="https://www.linkedin.com/in/abhijeetpraveen/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="Linkedin"> </a> 
+
+<a href="https://www.abhijeetpraveen.com/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://img.shields.io/badge/My%20Website-red?style=for-the-badge" alt="Website"> </a>
 
 <h2> GitHub Stats </h2>
 
